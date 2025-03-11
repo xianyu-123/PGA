@@ -11,7 +11,7 @@ python=3.7
 
 conda install r-base=4.0.5
 
-git clone https://github.com/xianyu-123/PGA/
+google drive (https://drive.google.com/file/d/1CmcU8kKJ6JnUbyygSKmMNljDaf6UHXwW/view?usp=drive_link)
 
 tar -zxvf a.tar.gz -C /path/to/new_folder
 
