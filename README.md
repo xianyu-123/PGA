@@ -1,5 +1,7 @@
 # PGA
-This is an alternative installation method for BiocManager::install("wenbostar/PGA").
+This is an alternative installation method for BiocManager::install("wenbostar/PGA"). 
+
+Orign: https://github.com/wenbostar/PGA
 
 conda install r-base=4.0.5
 git clone https://github.com/xianyu-123/PGA/
