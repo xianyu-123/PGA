@@ -8,6 +8,7 @@ Orign: https://github.com/wenbostar/PGA
 download wenbostar-PGA-v1.9.1-86-ga0d6866.tar.gz from https://drive.google.com/file/d/13gnP1v7NDkSrz5ZaPZfU3_3m5M1hKNlp/view?usp=sharing
 
 conda install conda-forge::r-base=4.4.3
+conda install -c conda-forge r-curl
 conda install bz1::libgcc-ng
 conda install -c conda-forge zlib
 conda install -y -c conda-forge r-stringi
