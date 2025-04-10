@@ -29,7 +29,8 @@ install.packages("BiocManager")
 
 BiocManager::install(c("IRanges", "GenomicRanges", "Biostrings", "S4Vectors",
 "Rsamtools", "GenomicFeatures", "biomaRt",
-"VariantAnnotation", "rtracklayer", "customProDB","rTANDEM", "Nozzle.R1"))
+"VariantAnnotation", "rtracklayer", "customProDB", "Nozzle.R1"))
+remotes::install_version("data.table", version = "1.15.2") # once again
 
 install.packages('wenbostar-PGA-v1.9.1-86-ga0d6866.tar.gz')
 
